@@ -21,3 +21,6 @@ And, Happy Mid-autumn Festival :moon:, guys :smile:
 
 ## 2018.10.15 @jiayangchen
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+
+## 2018.10.23 @cbcbc
+[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
