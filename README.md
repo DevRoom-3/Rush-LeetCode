@@ -24,3 +24,6 @@ And, Happy Mid-autumn Festival :moon:, guys :smile:
 
 ## 2018.10.23 @cbcbc
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+
+## 2018.10.29 @jiayangchen
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
