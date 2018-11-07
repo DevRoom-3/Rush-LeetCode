@@ -27,3 +27,6 @@ And, Happy Mid-autumn Festival :moon:, guys :smile:
 
 ## 2018.10.29 @jiayangchen
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+## 2018.11.05 @cbcbc
+[152. Number of Islands](https://leetcode.com/problems/number-of-islands/)
