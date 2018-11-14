@@ -30,3 +30,6 @@ And, Happy Mid-autumn Festival :moon:, guys :smile:
 
 ## 2018.11.05 @cbcbc
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+## 2018.11.12 @cbcbc
+[89. Gray Code](https://leetcode.com/problems/gray-code/)
