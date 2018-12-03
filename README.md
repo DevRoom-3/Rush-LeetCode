@@ -39,3 +39,6 @@ And, Happy Mid-autumn Festival :moon:, guys :smile:
 
 ## 2018.11.26 @jiayangchen
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+
+## 2018.12.03 @cbcbc
+[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)
