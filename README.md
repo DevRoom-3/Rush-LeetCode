@@ -34,5 +34,14 @@ And, Happy Mid-autumn Festival :moon:, guys :smile:
 ## 2018.11.12 @cbcbc
 [89. Gray Code](https://leetcode.com/problems/gray-code/)
 
-## 2018.11.16 @jiayangchen
+## 2018.11.19 @jiayangchen
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+## 2018.11.26 @jiayangchen
+[48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+
+## 2018.12.03 @cbcbc
+[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+
+## 2018.12.10 @cbcbc
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
