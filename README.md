@@ -45,3 +45,6 @@ And, Happy Mid-autumn Festival :moon:, guys :smile:
 
 ## 2018.12.10 @cbcbc
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+## 2018.12.17 @jiayangchen
+[187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
