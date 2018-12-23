@@ -50,4 +50,6 @@ And, Happy Mid-autumn Festival :moon:, guys :smile:
 [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ## 2018.12.24 @jiayangchen
+Happy New Year :tada:
+
 [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
