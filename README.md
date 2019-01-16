@@ -59,3 +59,6 @@ Happy New Year :tada:
 
 ## 2019.01.07 @cbcbc
 [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+
+## 2019.01.14 @jiayangchen
+[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
