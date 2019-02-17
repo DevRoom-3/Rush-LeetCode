@@ -62,3 +62,9 @@ Happy New Year :tada:
 
 ## 2019.01.14 @jiayangchen
 [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+## 2019.01.21 @cbcbc
+[57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+
+## 2019.01.28 @cbcbc
+[61. Rotate List](https://leetcode.com/problems/rotate-list/)
