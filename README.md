@@ -68,3 +68,9 @@ Happy New Year :tada:
 
 ## 2019.01.28 @cbcbc
 [61. Rotate List](https://leetcode.com/problems/rotate-list/)
+
+## 2019.02.04 @cbcbc
+[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
+## 2019.02.11 @cbcbc
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/)
